@@ -27,7 +27,7 @@ public class Main {
         System.out.println("Минимальная сумма трат за день составила " + numMin + " рублей.");
         System.out.println("Максимальная сумма трат за день составила " + numMax + " рублей.");
         //==============ThirdTask==============
-        System.out.println("==============ThirdTask==============");
+        System.out.println("==============ThirdTask===============");
         double averageNum = sum / 30;
         System.out.println("Средняя сумма трат за месяц составила " + averageNum + " рублей.");
         //==============FourthTask==============
